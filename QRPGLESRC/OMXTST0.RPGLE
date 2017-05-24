@@ -8,7 +8,7 @@
       * Description  16-01-2013 09:09                               *
       * ----------------------------------------------------------- *
       *                                                             *
-      * Program ....: OMX020                                        *
+      * Program ....: OMXTST0                                       *
       * Function ...: Retrieve formatted message                    *
       * Author .....: W.S. Jongman.                                 *
       * Startdate ..: 30-08-1993.                                   *
