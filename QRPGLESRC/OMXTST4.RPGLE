@@ -104,6 +104,7 @@
       *
       *          ------------------------------------------
       *          Error buffer for API call.
+      *          Error buffer for API call.
       *
       *          The number of bytes provided is an input parameter
       *          indicating the length of the error buffer in the
